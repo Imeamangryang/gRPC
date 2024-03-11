@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v5ASV9w+GVjkCVMDajPlShXGfBMtODlYikXvaHa5hwE=",
+  "Source": "gRPC_BidirectionalStreaming",
+  "BasePath": "_content/gRPC_BidirectionalStreaming",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

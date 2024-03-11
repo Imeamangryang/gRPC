@@ -1,0 +1,17 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Client";
+
+package serverstreaming;
+
+service serverstreaming {
+	rpc GetServerResponse(Number) returns (stream Message);
+}
+
+message Message {
+	string message = 1;
+}
+
+message Number {
+	int32 value = 1;
+}

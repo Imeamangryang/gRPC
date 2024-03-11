@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbDzYaynBT34W5FoLfV9N3UBK59CMYQ3K3dH8dOw0zEdBhmhtyc0+No6iqDF4xhn+wCfVbUt7hYu2BygjRosLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jione\\source\\repos\\gRPC_Clientstreaming\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jione\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
+    "C:\\Users\\jione\\.nuget\\packages\\grpc.core.api\\2.49.0\\grpc.core.api.2.49.0.nupkg.sha512",
+    "C:\\Users\\jione\\.nuget\\packages\\grpc.net.client\\2.49.0\\grpc.net.client.2.49.0.nupkg.sha512",
+    "C:\\Users\\jione\\.nuget\\packages\\grpc.net.common\\2.49.0\\grpc.net.common.2.49.0.nupkg.sha512",
+    "C:\\Users\\jione\\.nuget\\packages\\grpc.tools\\2.50.0\\grpc.tools.2.50.0.nupkg.sha512",
+    "C:\\Users\\jione\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\jione\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
